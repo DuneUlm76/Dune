@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(rgb(31, 31, 31),rgb(247, 49, 49));
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+div.Line-name{
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    -moz-border-radius:10px 0;
+    -webkit-border-radius:10px 0;
+    border-radius:10px;
+}
+a{
+    text-decoration: none;
+}
+h1.Name{
+    text-align: center;
+    margin-top: 8%;
+    font-family: 'Dela Gothic One', sans-serif;
+    font-size: 60px;
+    color: rgb(210, 74, 20);
+}
+h1.instagram{
+    text-align: center;
+    margin-top: 8%;
+    font-family: 'Dela Gothic One', sans-serif;
+    font-size: 60px;
+    color: rgb(210, 74, 20);
+}
+h1.Snapchat{
+    text-align: center;
+    margin-top: 7%;
+    font-family: 'Dela Gothic One', sans-serif;
+    font-size: 60px;
+    color: rgb(210, 74, 20);
+}
+h1.Onlyfan{
+    text-align: center;
+    margin-top: 7%;
+    font-family: 'Dela Gothic One', sans-serif;
+    font-size: 60px;
+    color: rgb(210, 74, 20);
+}
+p{
+    font-size: 1px;
+}
